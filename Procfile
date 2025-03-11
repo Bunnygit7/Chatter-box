@@ -1,1 +1,1 @@
-web: java -jar Chatter-box.jar
+web: java -jar 1-Chat-Register.jar
