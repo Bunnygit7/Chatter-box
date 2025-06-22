@@ -29,6 +29,7 @@
 ## 📁 Folder Structure
 
 Chatter-box/
+
 ├── backend/ # Spring Boot app
 
 │ ├── controller/
