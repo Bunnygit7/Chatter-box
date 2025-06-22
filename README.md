@@ -30,16 +30,27 @@
 
 Chatter-box/
 ├── backend/ # Spring Boot app
+
 │ ├── controller/
+
 │ ├── service/
+
 │ ├── model/
+
 │ ├── repository/
+
 │ └── ChatterBoxApplication.java
+
 ├── frontend/ # React app
+
 │ ├── src/
+
 │ ├── components/
+
 │ ├── pages/
+
 │ └── App.js
+
 
 
 ---
